@@ -11,10 +11,7 @@ import javax.swing.JTextField;
 import javax.swing.JLabel;
 import javax.swing.JButton;
 
-/**
- *
- * @author W10
- */
+
 public class MyInvoiceHeaderDialog extends JDialog{
     private JTextField customerNameField;
     private JTextField dateField;

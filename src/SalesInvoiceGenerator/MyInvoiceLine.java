@@ -5,10 +5,6 @@
  */
 package SalesInvoiceGenerator;
 
-/**
- *
- * @author muhammad atef
- */
 public class MyInvoiceLine {
 	private String itemName ;
 	private double itemPrice ;
